@@ -3,7 +3,7 @@
 <img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
 <h1 align="center">Hi 👋, I'm Basel Bakeer</h1>
 <h3 align="center">A Software & AI Engineer</h3>
-<h3 align="center">Graduated from Computer Science and Artificial Intelligence MTI University 💻💻</h3><br>
+<h3 align="center">Graduated from Computer Science and Artificial Intelligence  💻💻</h3><br>
 
 
 **Data Analyst | AI Engineer | Flutter Developer**
